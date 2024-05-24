@@ -1,0 +1,381 @@
+{
+  "version": 1,
+  "locale": "English_United States.1252",
+  "metadata": {
+    "appmode": "python-dash",
+    "entrypoint": "main"
+  },
+  "python": {
+    "version": "3.8.16",
+    "package_manager": {
+      "name": "pip",
+      "version": "23.0.1",
+      "package_file": "requirements.txt"
+    }
+  },
+  "files": {
+    "requirements.txt": {
+      "checksum": "24f60fdae951e64ada3c84f351540537"
+    },
+    ".spyproject\\config\\backups\\codestyle.ini.bak": {
+      "checksum": "de8a66cdc6940773667c18ef547a3c09"
+    },
+    ".spyproject\\config\\backups\\encoding.ini.bak": {
+      "checksum": "efd70e7a3292196e011a019dfe3edae2"
+    },
+    ".spyproject\\config\\backups\\vcs.ini.bak": {
+      "checksum": "99fdb6058c7677bb609aeecabcd8dd0f"
+    },
+    ".spyproject\\config\\backups\\workspace.ini.bak": {
+      "checksum": "7e485ff387587c809a0e7ece71b9b034"
+    },
+    ".spyproject\\config\\codestyle.ini": {
+      "checksum": "de8a66cdc6940773667c18ef547a3c09"
+    },
+    ".spyproject\\config\\defaults\\defaults-codestyle-0.2.0.ini": {
+      "checksum": "af6a1f6a1a62a6c37ca62f901d9e89ee"
+    },
+    ".spyproject\\config\\defaults\\defaults-encoding-0.2.0.ini": {
+      "checksum": "650d74483ce6734b72719b7fa4a5d28d"
+    },
+    ".spyproject\\config\\defaults\\defaults-vcs-0.2.0.ini": {
+      "checksum": "b1abf45d196f109529f667dd556bfbe6"
+    },
+    ".spyproject\\config\\defaults\\defaults-workspace-0.2.0.ini": {
+      "checksum": "e9c02b5965a89c2b5dbc2b24a0c42f6d"
+    },
+    ".spyproject\\config\\encoding.ini": {
+      "checksum": "efd70e7a3292196e011a019dfe3edae2"
+    },
+    ".spyproject\\config\\vcs.ini": {
+      "checksum": "99fdb6058c7677bb609aeecabcd8dd0f"
+    },
+    ".spyproject\\config\\workspace.ini": {
+      "checksum": "7e485ff387587c809a0e7ece71b9b034"
+    },
+    "README.md": {
+      "checksum": "353ef53f4d91430923d329866a0e348a"
+    },
+    "assets\\style.css": {
+      "checksum": "9666f28422487eb2a20c0212893cfc86"
+    },
+    "data\\OSWex1.csv": {
+      "checksum": "5ceb64c0a5a649547c9a2f03ff3df345"
+    },
+    "data\\OSWex2.csv": {
+      "checksum": "c81ca6b40fac0e248030e5be7cfe5477"
+    },
+    "data\\OSWex3.csv": {
+      "checksum": "af5184d8947bbce0387d34f0d011aca7"
+    },
+    "data\\thresholds.py": {
+      "checksum": "239ac63a8687edaf7209e2f8fa806eaa"
+    },
+    "data\\user.csv": {
+      "checksum": "2181eb470808e0ad2362fca97890d236"
+    },
+    "main.py": {
+      "checksum": "61d298163d9bc2d6dbf94b948ceb5d13"
+    },
+    "src\\__init__.py": {
+      "checksum": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "src\\__pycache__\\__init__.cpython-311.pyc": {
+      "checksum": "fe337c3a47c1cfa40c6d2a21bfdf0c6e"
+    },
+    "src\\__pycache__\\__init__.cpython-38.pyc": {
+      "checksum": "43cbcfeffd546f00d715682fb84b77c6"
+    },
+    "src\\__pycache__\\__init__.cpython-39.pyc": {
+      "checksum": "572eb124677b0828bda7b86196e5f96c"
+    },
+    "src\\components\\__init__.py": {
+      "checksum": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "src\\components\\__pycache__\\__init__.cpython-311.pyc": {
+      "checksum": "970ede2c54720bbc6cbda10d45b66cf8"
+    },
+    "src\\components\\__pycache__\\__init__.cpython-38.pyc": {
+      "checksum": "281211245041641b0a74aa182b7dcb86"
+    },
+    "src\\components\\__pycache__\\__init__.cpython-39.pyc": {
+      "checksum": "3534e635beece01840b3a0e13eb49010"
+    },
+    "src\\components\\__pycache__\\alerts.cpython-311.pyc": {
+      "checksum": "2c4e63c58401501c9e005944e20b27c8"
+    },
+    "src\\components\\__pycache__\\alerts.cpython-38.pyc": {
+      "checksum": "8395c8bf7278fcc1c5d4d9dfa0a99bbe"
+    },
+    "src\\components\\__pycache__\\alerts.cpython-39.pyc": {
+      "checksum": "bc418bd21fc2e4b3fe87c41568e7781e"
+    },
+    "src\\components\\__pycache__\\bar_chart.cpython-39.pyc": {
+      "checksum": "e55922f145d445f829b89ead8f0b6c91"
+    },
+    "src\\components\\__pycache__\\bathOptCard.cpython-311.pyc": {
+      "checksum": "950c6720e38b555cf33fb2bfc26d05bf"
+    },
+    "src\\components\\__pycache__\\bathOptCard.cpython-38.pyc": {
+      "checksum": "1db855d94b2114f3fa756aa8f4cdc152"
+    },
+    "src\\components\\__pycache__\\bathOptCard.cpython-39.pyc": {
+      "checksum": "25fa2a32fec06c78aefcff4e9fd60f25"
+    },
+    "src\\components\\__pycache__\\bathplot.cpython-311.pyc": {
+      "checksum": "8c085ad68d897986865c62f68559b2e0"
+    },
+    "src\\components\\__pycache__\\bathplot.cpython-38.pyc": {
+      "checksum": "3a7cd8cc6d83a92da807fd6e5fd1ffd6"
+    },
+    "src\\components\\__pycache__\\bathplot.cpython-39.pyc": {
+      "checksum": "a2a7424bb3163fbcc3204d0b2c75ef7d"
+    },
+    "src\\components\\__pycache__\\bulkCard.cpython-311.pyc": {
+      "checksum": "1f7d48523665ba636cce2db4fb66b3a6"
+    },
+    "src\\components\\__pycache__\\bulkCard.cpython-38.pyc": {
+      "checksum": "e8179b67d48c3776377d577e0940dd87"
+    },
+    "src\\components\\__pycache__\\calcButton.cpython-311.pyc": {
+      "checksum": "434df9d9bf272749b2c268c3cdae0869"
+    },
+    "src\\components\\__pycache__\\calcButton.cpython-38.pyc": {
+      "checksum": "a12e44a065e1ef9690a3639b88329b68"
+    },
+    "src\\components\\__pycache__\\card_display.cpython-39.pyc": {
+      "checksum": "7e48f631d80131cfdfdc7364ffa91328"
+    },
+    "src\\components\\__pycache__\\card_dropdown.cpython-39.pyc": {
+      "checksum": "be18f630388149bb33c360445bf88a99"
+    },
+    "src\\components\\__pycache__\\cards.cpython-39.pyc": {
+      "checksum": "cc081f2ba8012f2dda548895d3c4a53c"
+    },
+    "src\\components\\__pycache__\\centerCoordDropdown.cpython-39.pyc": {
+      "checksum": "2c545022f68a71ea02fb52664fb6e26f"
+    },
+    "src\\components\\__pycache__\\click_display.cpython-39.pyc": {
+      "checksum": "0e9d2bb85541dbf3de99116ef815a053"
+    },
+    "src\\components\\__pycache__\\downloadsCanvas.cpython-311.pyc": {
+      "checksum": "74b65c2a35cc8337c3470dc98c76f6c8"
+    },
+    "src\\components\\__pycache__\\downloadsCanvas.cpython-38.pyc": {
+      "checksum": "69675cdaf75182bda46400d5737c6cbe"
+    },
+    "src\\components\\__pycache__\\fitButton.cpython-311.pyc": {
+      "checksum": "aed66cabfac361300a568b235f4ae3df"
+    },
+    "src\\components\\__pycache__\\genOptCard.cpython-311.pyc": {
+      "checksum": "0934479f8879db2cd7b653e7fed2130b"
+    },
+    "src\\components\\__pycache__\\genOptCard.cpython-38.pyc": {
+      "checksum": "ab4b07d8eb5c8338467df154300e1778"
+    },
+    "src\\components\\__pycache__\\genOptCard.cpython-39.pyc": {
+      "checksum": "d7bc223e76e79e8f88eab73892bba380"
+    },
+    "src\\components\\__pycache__\\ids.cpython-311.pyc": {
+      "checksum": "c4bfd94ad37c0e879b2691bfb1580f04"
+    },
+    "src\\components\\__pycache__\\ids.cpython-38.pyc": {
+      "checksum": "ef211007ec86390099b5a21b69c382e4"
+    },
+    "src\\components\\__pycache__\\ids.cpython-39.pyc": {
+      "checksum": "a7c5c7e03d5e58f6793e37ccc072af11"
+    },
+    "src\\components\\__pycache__\\inputCard.cpython-311.pyc": {
+      "checksum": "a4e51d5f41efea6f32d92117e7e89a3f"
+    },
+    "src\\components\\__pycache__\\layout.cpython-311.pyc": {
+      "checksum": "a8582ac75d06e095a3eb34dd6b46120e"
+    },
+    "src\\components\\__pycache__\\layout.cpython-38.pyc": {
+      "checksum": "f60faff8deb42b2e429601f775d10bb9"
+    },
+    "src\\components\\__pycache__\\layout.cpython-39.pyc": {
+      "checksum": "5aa46cae2a5fc540c779292cedd56997"
+    },
+    "src\\components\\__pycache__\\map_fig.cpython-311.pyc": {
+      "checksum": "0fbab4a479b384ecf9bd68569fa3a6c8"
+    },
+    "src\\components\\__pycache__\\map_fig.cpython-38.pyc": {
+      "checksum": "9b8be02c4f5a0a61199ec1d9f3cf204c"
+    },
+    "src\\components\\__pycache__\\map_fig.cpython-39.pyc": {
+      "checksum": "c30509c1573c1e09e379b4d6b07aacdc"
+    },
+    "src\\components\\__pycache__\\nation_dropdown.cpython-39.pyc": {
+      "checksum": "a87e94a30d200a542d4adc79a530be21"
+    },
+    "src\\components\\__pycache__\\optionsCard.cpython-311.pyc": {
+      "checksum": "0a918ba13f3cbce81b092118dcf8229f"
+    },
+    "src\\components\\__pycache__\\plots.cpython-311.pyc": {
+      "checksum": "3e621f8253e4423f9cde8e0d71774957"
+    },
+    "src\\components\\__pycache__\\plots.cpython-38.pyc": {
+      "checksum": "cac3aa2ddfdb1cec0c21bc04a32bd8ba"
+    },
+    "src\\components\\__pycache__\\resultsCard.cpython-311.pyc": {
+      "checksum": "85445bc35ae359903ca4e6af4d1ecaa2"
+    },
+    "src\\components\\__pycache__\\seabedOptCard.cpython-311.pyc": {
+      "checksum": "1b096833a5789469464a35d85d957908"
+    },
+    "src\\components\\__pycache__\\seabedOptCard.cpython-38.pyc": {
+      "checksum": "5a3d678ddf757b451e640180fe661037"
+    },
+    "src\\components\\__pycache__\\seabedTable.cpython-311.pyc": {
+      "checksum": "0f38fffa939e1441e31d129087b29e3a"
+    },
+    "src\\components\\__pycache__\\seabedTable.cpython-38.pyc": {
+      "checksum": "79c765ce14307480b3b9963f182572d3"
+    },
+    "src\\components\\__pycache__\\sedimentCard.cpython-311.pyc": {
+      "checksum": "3808cbf7cab1e281eb59ed76716a14f2"
+    },
+    "src\\components\\__pycache__\\sedimentCard.cpython-38.pyc": {
+      "checksum": "7fb13aa50d0c2608e337fc3747cea1ef"
+    },
+    "src\\components\\__pycache__\\sspOptCard.cpython-311.pyc": {
+      "checksum": "2eac1f0262a860984457110f41df79bd"
+    },
+    "src\\components\\__pycache__\\sspOptCard.cpython-38.pyc": {
+      "checksum": "ae21d0eaa5508fcd78a13493dda7e92d"
+    },
+    "src\\components\\__pycache__\\sspOptCard.cpython-39.pyc": {
+      "checksum": "1effab5d256157657affad99edb03a40"
+    },
+    "src\\components\\__pycache__\\ssplot.cpython-311.pyc": {
+      "checksum": "9bde26cef11a9bc6de57c63a53adba5b"
+    },
+    "src\\components\\__pycache__\\ssplot.cpython-38.pyc": {
+      "checksum": "e1130ed209eedf61d0c455a9b3df7461"
+    },
+    "src\\components\\__pycache__\\ssplot.cpython-39.pyc": {
+      "checksum": "3a5f651a2c433d79dfdf1d2932c104aa"
+    },
+    "src\\components\\__pycache__\\stats.cpython-39.pyc": {
+      "checksum": "51a1819a27276efab5ab4dfee2934a9b"
+    },
+    "src\\components\\__pycache__\\tabs.cpython-311.pyc": {
+      "checksum": "a469c2dd2995ee32b3b07afa1461935c"
+    },
+    "src\\components\\__pycache__\\tabs.cpython-38.pyc": {
+      "checksum": "6e3c180aac5480ceca4ec01f7b558dfd"
+    },
+    "src\\components\\__pycache__\\tabs.cpython-39.pyc": {
+      "checksum": "14339233f65c6debde775afc270fde71"
+    },
+    "src\\components\\__pycache__\\text.cpython-311.pyc": {
+      "checksum": "280d671f8be59a2ad54d2a26d114c07a"
+    },
+    "src\\components\\__pycache__\\text.cpython-38.pyc": {
+      "checksum": "88f3d8d3350846f956f4beac9b10123d"
+    },
+    "src\\components\\__pycache__\\transectOptCard.cpython-311.pyc": {
+      "checksum": "909b3112c5a1a5839e26bc99556e9ab8"
+    },
+    "src\\components\\__pycache__\\transectOptCard.cpython-38.pyc": {
+      "checksum": "9adaad87b531be0c059700888b066a41"
+    },
+    "src\\components\\__pycache__\\transectPlot.cpython-311.pyc": {
+      "checksum": "07b854f15775275c98f346c872df281d"
+    },
+    "src\\components\\__pycache__\\transectPlot.cpython-38.pyc": {
+      "checksum": "33d45466498feaacb2232bd2d0f93780"
+    },
+    "src\\components\\__pycache__\\waterCard.cpython-311.pyc": {
+      "checksum": "8f3663cdf6a68484a6f7d24706d71b2f"
+    },
+    "src\\components\\__pycache__\\waterCard.cpython-38.pyc": {
+      "checksum": "75ef5ac6f9d93d90abfedce7959dc041"
+    },
+    "src\\components\\__pycache__\\winodds_chart.cpython-39.pyc": {
+      "checksum": "4801e29f203117c72e214e4b9bfb8de1"
+    },
+    "src\\components\\custom\\__pycache__\\inputGroups.cpython-311.pyc": {
+      "checksum": "446f918a74bd5af794224bd8d9e863a6"
+    },
+    "src\\components\\custom\\__pycache__\\inputGroups.cpython-38.pyc": {
+      "checksum": "fb04e6832df03500fc13bc1a2f4ad8aa"
+    },
+    "src\\components\\custom\\__pycache__\\inputGroups.cpython-39.pyc": {
+      "checksum": "d6c17bced1273290540c625ab7f47b76"
+    },
+    "src\\components\\custom\\inputGroups.py": {
+      "checksum": "ef2fadeb20ecf3fdae98f9d039ee78e8"
+    },
+    "src\\components\\fitButton.py": {
+      "checksum": "924ff128bd9e41e9544bfb10ad9b7908"
+    },
+    "src\\components\\ids.py": {
+      "checksum": "87341836fd8c6f68e636d3422307e643"
+    },
+    "src\\components\\inputCard.py": {
+      "checksum": "3795af4d8548c89107cf5c62cdbae23d"
+    },
+    "src\\components\\layout.py": {
+      "checksum": "99c93a4fd3fb2cac20aadab11ad999c0"
+    },
+    "src\\components\\optionsCard.py": {
+      "checksum": "55dac297f2a61bc760f572abb2a0c473"
+    },
+    "src\\components\\plots.py": {
+      "checksum": "522ced4a51e2f5b257f3eeaaac734e9b"
+    },
+    "src\\components\\resultsCard.py": {
+      "checksum": "f17974cb2e93bd49da54d0a5abbb882f"
+    },
+    "src\\dataHandling\\TLfitting.py": {
+      "checksum": "20d485095c2cae9667e3bc61418794e8"
+    },
+    "src\\dataHandling\\__init__.py": {
+      "checksum": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "src\\dataHandling\\__pycache__\\TLfitting.cpython-311.pyc": {
+      "checksum": "5a8c2c1749783d1a09f376c3e04ba9d4"
+    },
+    "src\\dataHandling\\__pycache__\\VGS_script_sand.cpython-311.pyc": {
+      "checksum": "0bbeddda23e6134ba08b8e853afe0494"
+    },
+    "src\\dataHandling\\__pycache__\\VGS_script_sand.cpython-38.pyc": {
+      "checksum": "edb89d48180578a5375761ab2bc73703"
+    },
+    "src\\dataHandling\\__pycache__\\__init__.cpython-311.pyc": {
+      "checksum": "1ba856707ccb5e67bcd7e5668564ca11"
+    },
+    "src\\dataHandling\\__pycache__\\__init__.cpython-38.pyc": {
+      "checksum": "0c9a4a8a974b9577f691d02e58236492"
+    },
+    "src\\dataHandling\\__pycache__\\genericCSVhandler.cpython-311.pyc": {
+      "checksum": "9fe39dd8c2c6da689c5196d61e5840e7"
+    },
+    "src\\dataHandling\\__pycache__\\tableData.cpython-311.pyc": {
+      "checksum": "7e1fe19249f6f40ebb60d3841094fe6f"
+    },
+    "src\\dataHandling\\__pycache__\\thresholds.cpython-311.pyc": {
+      "checksum": "896f2927627f88044b9dedc34acecec5"
+    },
+    "src\\dataHandling\\genericCSVhandler.py": {
+      "checksum": "11ab9fedca9001a5f74e016bb7d12e74"
+    },
+    "src\\dataHandling\\tableData.py": {
+      "checksum": "4d91c95d8e677e5c246dd17faf60f975"
+    },
+    "src\\dataHandling\\utils\\__init__.py": {
+      "checksum": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "src\\dataHandling\\utils\\__pycache__\\__init__.cpython-311.pyc": {
+      "checksum": "fd59dc7b2fbd1cb9544d90bb5858b840"
+    },
+    "src\\dataHandling\\utils\\__pycache__\\delta_method.cpython-311.pyc": {
+      "checksum": "d6d068ef957bc2bf6b5b8fc445d46686"
+    },
+    "src\\dataHandling\\utils\\delta_method.py": {
+      "checksum": "029f2bc06f6ff5ba4a29b9db962991c9"
+    }
+  }
+}
